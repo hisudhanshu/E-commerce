@@ -4,7 +4,7 @@
 }
 
 .nav h1 {
-    color: brown;
+    color: blueviolet;
     MARGIN: auto;
     font: size 40px;
     ;
@@ -24,7 +24,7 @@
 
 .nav li a {
     text-decoration: none;
-    color: brown;
+    color: blueviolet;
 
 }
 
@@ -38,16 +38,16 @@
 
 .nav .nav-search input {
     flex: 1;
-    color: blue;
-    border: 1px solid blue;
-    height: 25px;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 35px;
     border-right: 0px;
 }
 
 .nav .nav-search button {
 
-    color: blue;
-    border: 1px solid blue;
-    height: 25px;
-    border-left: 00px;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 35px;
+    border-left: 0px;
 }

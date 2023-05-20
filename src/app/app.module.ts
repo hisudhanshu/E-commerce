@@ -4,15 +4,19 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './Components/header/header.component';
+import { HomeComponent } from './Components/home/home.component';
+import { SellerAuthComponent } from './Components/seller-auth/seller-auth.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
   declarations: [
     HeaderComponent,
-    AppComponent],
+    AppComponent,HomeComponent, SellerAuthComponent
+    ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
