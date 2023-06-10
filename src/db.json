@@ -11,6 +11,12 @@
       "email": "sudhanshu.b@clay.co.in",
       "password": "Sud@clay",
       "id": 2
+    },
+    {
+      "name": "Gopi",
+      "password": "12345",
+      "Email": "gopi@gmail.com",
+      "id": 3
     }
   ]
 }
