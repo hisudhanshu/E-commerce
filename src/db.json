@@ -1,0 +1,16 @@
+{
+  "seller": [
+    {
+      "name": "sudanshu",
+      "email": "sudhanshu.b@clay.co.in",
+      "password": "Sud@clay",
+      "id": 1
+    },
+    {
+      "name": "sudanshu",
+      "email": "sudhanshu.b@clay.co.in",
+      "password": "Sud@clay",
+      "id": 2
+    }
+  ]
+}
