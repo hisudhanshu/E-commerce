@@ -25,4 +25,5 @@ signUp(data:signUp):void{
       this.router.navigate(['seller-home'])
     }
   });
+  
 }}
