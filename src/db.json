@@ -11,6 +11,12 @@
       "password": "12345",
       "Email": "gopi@gmail.com",
       "id": 2
+    },
+    {
+      "name": "Deepak Tiwari",
+      "password": "Deepak",
+      "Email": "deepak123@gmail.com",
+      "id": 3
     }
   ]
 }
